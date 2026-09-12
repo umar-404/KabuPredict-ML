@@ -1,4 +1,5 @@
 # KabuPredict ML
+<img width="1813" height="853" alt="Screenshot from 2026-09-12 23-00-25" src="https://github.com/user-attachments/assets/06492d6f-33cb-48ed-940d-2026fa447107" />
 
 > **Next-day price-direction forecasting for Suzuki Motor (7269.T)**
 >
